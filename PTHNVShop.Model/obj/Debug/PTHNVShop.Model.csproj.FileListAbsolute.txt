@@ -1,0 +1,16 @@
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\bin\Debug\PTHNVShop.Model.dll.config
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\bin\Debug\PTHNVShop.Model.dll
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\bin\Debug\PTHNVShop.Model.pdb
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\bin\Debug\EntityFramework.dll
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\bin\Debug\EntityFramework.xml
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\obj\Debug\PTHNVShop.Model.csprojAssemblyReference.cache
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\obj\Debug\PTHNVShop.Model.csproj.CoreCompileInputs.cache
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\obj\Debug\PTHNVShop.Model.csproj.CopyComplete
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\obj\Debug\PTHNVShop.Model.dll
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Model\obj\Debug\PTHNVShop.Model.pdb

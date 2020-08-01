@@ -1,0 +1,12 @@
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Common\bin\Debug\PTHNVShop.Common.dll.config
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Common\bin\Debug\PTHNVShop.Common.dll
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Common\bin\Debug\PTHNVShop.Common.pdb
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Common\bin\Debug\EntityFramework.dll
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Common\bin\Debug\EntityFramework.xml
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Common\obj\Debug\PTHNVShop.Common.csprojAssemblyReference.cache
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Common\obj\Debug\PTHNVShop.Common.csproj.CoreCompileInputs.cache
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Common\obj\Debug\PTHNVShop.Common.csproj.CopyComplete
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Common\obj\Debug\PTHNVShop.Common.dll
+C:\Users\ltpnt\source\repos\PTHNVShop\PTHNVShop.Common\obj\Debug\PTHNVShop.Common.pdb
